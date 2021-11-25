@@ -1,0 +1,19 @@
+.bar {
+    width: 5%;
+    height: 2rem;
+    background-color: blue;
+    text-align: center;
+    line-height: 2rem;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: green;
+}
+
+#btn {
+    padding: 10px;
+    background-color: blueviolet;
+    color: black;;
+    margin: 10px;
+}
